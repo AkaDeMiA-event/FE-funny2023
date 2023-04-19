@@ -29,7 +29,6 @@ body{
 @keyframes moving{
     100%{
         transform: translateX(-3000px);
-
     }
 }
 

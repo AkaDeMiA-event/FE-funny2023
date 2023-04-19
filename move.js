@@ -3,7 +3,6 @@ const daytime = document.querySelector(".daytime")
 const car = document.querySelector(".car")
 
 
-
 document.addEventListener("keyup", (e)=>{
     if(e.key==="Enter"){
         daytime.classList.toggle("moving")

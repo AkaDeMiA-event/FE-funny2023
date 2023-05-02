@@ -3,7 +3,7 @@ body{
 }
 
 .sky{
-    background-image: url(img/sky.png);
+    background-image: url(../img/sky.png);
     position: relative;
     width: 100vw;
     height: 100vh;
@@ -11,7 +11,7 @@ body{
 }
 
 .daytime{
-    background-image: url(img/daytime.png);
+    background-image: url(../img/daytime.png);
     position: absolute;
     width: 500%;
     height: 360px;

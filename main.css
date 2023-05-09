@@ -26,4 +26,25 @@ body{
     left: 120px;
 }
 
-/* ここにcss-animationを記述してもらう */
+ /* ~~~この下に書く~~~ */
+
+@keyframes moving{
+    
+
+
+}
+
+
+@keyframes suspention{
+    
+
+
+}
+    
+.moving{
+    
+}
+
+.suspention{
+    
+}
